@@ -4,7 +4,7 @@ Renders a 3D cube, textured with a user-provided image. Keyboard and mouse contr
 
 Implemented using: Visual Studio, OpenGL, GLAD, stb_image.h
 
-# CONTROLS
+# Controls
 
 Spin cube: Mouse Movement
 
@@ -20,6 +20,6 @@ Turn camera: Mouse movement
 
 Movement: WASD Keys or Arrow Keys
 
-# CUSTOM IMAGE
+# Custom image
 
 For a custom image to appear on the cube, replace "asset.jpg" in /Assets/ with a custom jpg of your choice.
