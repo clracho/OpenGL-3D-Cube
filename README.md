@@ -4,6 +4,8 @@ Renders a 3D cube, textured with a user-provided image. Keyboard and mouse contr
 
 Implemented using: Visual Studio, OpenGL, GLAD, stb_image.h
 
+Made For: Windows
+
 # Controls
 
 Spin cube: Mouse Movement
